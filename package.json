@@ -1,0 +1,15 @@
+{
+  "name": "casestudy2",
+  "version": "1.0.0",
+  "description": "ICT Academy Assignment 3 - Employee App Backend Integration",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.9.5"
+  }
+}
